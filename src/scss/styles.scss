@@ -1,5 +1,9 @@
-$bg-color: #006e99;
+$primary: #E84058;
+$body-bg: #18BC98;
+$success: #F8A828;
 
-body{
-    background: $bg-color;
+.jumbotron{
+    background-color: rgb(240, 187, 152) !important;
 }
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
